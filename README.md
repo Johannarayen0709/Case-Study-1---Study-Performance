@@ -1,5 +1,8 @@
 # Case-Study-1---Employee Performance
 Employee Performance Analysis
+# Problem Statement
+
+An IT company maintains employee attendance and monthly productivity records. The HR department wants to identify employees with poor attendance, compare department-wise productivity, and analyze the relationship between attendance and productivity.
 
 Project Overview
 
@@ -63,14 +66,18 @@ Project Files
 - "Book.xlsx" – Excel workbook containing the dataset, analysis, and dashboard.
 - "Dashboard.png" – Screenshot of the employee performance dashboard.
 
-Conclusion
 
-This project demonstrates how Microsoft Excel can be used to analyze employee performance data and present meaningful insights through charts and dashboards. It helps make data easier to understand and supports better performance evaluation.
 ## Dashboard Preview
 
 ![Employee Performance Dashboard](Dashboard.png.png)
 ## Author
 Created as part of an Employee Performance Analysis case study using Microsoft Excel.
+## Charts and Visualizations Created
+
+- Bar Chart – Department-wise Average Productivity.
+- Pie Chart – Department-wise Employee Distribution.
+- Histogram – Employee Attendance Distribution.
+- Scatter Plot – Attendance vs. Tasks Completed.
 ## Analysis Performed
 
 - Analyzed employee performance data.
@@ -84,3 +91,6 @@ This project helped analyze employee performance using Microsoft Excel.
 The dashboard provides a clear visualization of employee productivity, attendance, 
 department-wise performance, and tasks completed. The charts help identify patterns 
 and understand employee performance more effectively.
+## Google Sheets Link
+[Click here to view the Employee Performance Analysis]
+https://1drv.ms/x/c/acd32094f05f4906/IQBvTUhL2ay9SqMld78nf9ZwAU8osQywDJPglAlUlObYo_k?e=ZR9pHh
