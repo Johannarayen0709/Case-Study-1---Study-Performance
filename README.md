@@ -78,3 +78,9 @@ Created as part of an Employee Performance Analysis case study using Microsoft E
 - Examined employee attendance.
 - Compared attendance with tasks completed.
 - Identified performance patterns using charts and visualizations.
+## Conclusion
+
+This project helped analyze employee performance using Microsoft Excel. 
+The dashboard provides a clear visualization of employee productivity, attendance, 
+department-wise performance, and tasks completed. The charts help identify patterns 
+and understand employee performance more effectively.
