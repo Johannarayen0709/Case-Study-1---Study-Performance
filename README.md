@@ -66,3 +66,6 @@ Project Files
 Conclusion
 
 This project demonstrates how Microsoft Excel can be used to analyze employee performance data and present meaningful insights through charts and dashboards. It helps make data easier to understand and supports better performance evaluation.
+## Dashboard Preview
+
+![Employee Performance Dashboard](Dashboard.png.png)
