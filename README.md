@@ -69,3 +69,5 @@ This project demonstrates how Microsoft Excel can be used to analyze employee pe
 ## Dashboard Preview
 
 ![Employee Performance Dashboard](Dashboard.png.png)
+## Author
+Created as part of an Employee Performance Analysis case study using Microsoft Excel.
