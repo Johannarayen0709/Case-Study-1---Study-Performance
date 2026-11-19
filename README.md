@@ -1,4 +1,4 @@
-# Case-Study-1---Study-Performance
+# Case-Study-1---Employee Performance
 Student Performance Analysis using Excel-data analysis and visualization case study 
 📊 Student Performance Analysis
 
